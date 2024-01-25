@@ -42,3 +42,9 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Pat-r1ck"><img src="https://github-readme-stats.vercel.app/api?username=Pat-r1ck&show_icons=true&hide=contribs&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pat-r1ck's GitHub stats" /></a>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Contribution Graph***
+</br>
+</br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pat-r1ck&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
