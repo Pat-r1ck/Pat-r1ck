@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Patrick <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Proficient+in+Java;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@Premialab;Computer+Science+Student;Proficient+in+Java;Always+learning+new+things"></a>
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 * 🌐  I'm based in Hong Kong
-* 🏫  I'm a senior at HKUST
+* 🏫  I'm a senior at HKUST Computer Science
 * 💸  Experienced working in an investment bank
-* 📖  I've keen interest in DevOps and Networking
-* 🤔  Ask me about Spring Boot and other server side application
+* 📖  I've a keen interest in DevOps and Networking
+* 🤔  Ask me about Spring Boot and other server-side application
 * ✉️  You can contact me at [ppusitdhikul@gmail.com](mailto:ppusitdhikul@gmail.com)
 * 🧠  I'm learning NestJS, VueJS and CMake
 * 🤝  I'm open to collaborating on any web application
