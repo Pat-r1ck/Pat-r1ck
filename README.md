@@ -39,8 +39,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Activities***
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1074](https://github.com/vojtechhabarta/typescript-generator/issues/1074) in [vojtechhabarta/typescript-generator](https://github.com/vojtechhabarta/typescript-generator)
-2. 🗣 Commented on [#2779](https://github.com/iluwatar/java-design-patterns/pull/2779#issuecomment-1914068854) in [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
+1. ❗ Opened issue [#1075](https://github.com/vojtechhabarta/typescript-generator/issues/1075) in [vojtechhabarta/typescript-generator](https://github.com/vojtechhabarta/typescript-generator)
+2. ❗ Opened issue [#1074](https://github.com/vojtechhabarta/typescript-generator/issues/1074) in [vojtechhabarta/typescript-generator](https://github.com/vojtechhabarta/typescript-generator)
 3. 🗣 Commented on [#2697](https://github.com/iluwatar/java-design-patterns/issues/2697#issuecomment-1830362751) in [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 4. 💪 Opened PR [#2779](https://github.com/iluwatar/java-design-patterns/pull/2779) in [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)
 5. 🔒 Closed issue [#7](https://github.com/Pat-r1ck/bazaarCore/issues/7) in [Pat-r1ck/bazaarCore](https://github.com/Pat-r1ck/bazaarCore)
